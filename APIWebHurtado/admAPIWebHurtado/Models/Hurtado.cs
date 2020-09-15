@@ -1,4 +1,4 @@
-﻿namespace APIWebHurtado.Models
+﻿namespace admAPIWebHurtado.Models
 {
 	using System;
 	using System.ComponentModel.DataAnnotations;
